@@ -1,1 +1,9 @@
+title: SpeakerGuard
+description: a security evaluation platform for speaker recognition
+show_downloads: false
 theme: jekyll-theme-hacker
+
+github:
+  is_project_page: true
+  repository_url: https://github.com/speakerguard/speakerguard
+  repository_name: SpeakerGuard Platform
