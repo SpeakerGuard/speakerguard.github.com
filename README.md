@@ -1,6 +1,8 @@
+# News
+- The paper releasing **SpeakerGuard** has been accepted by IEEE Transactions on Dependable and Secure Computing (TDSC), 2022.
 
 # About
-This is the official webpage for paper ***Towards Understanding and Mitigating Audio Adversarial Examples for Speaker Recognition***. 
+This is the official webpage for paper ***Towards Understanding and Mitigating Audio Adversarial Examples for Speaker Recognition*** accepted by IEEE Transactions on Dependable and Secure Computing (TDSC), 2022. 
 
 In this paper, we systematically investigate transformation and adversarial training based defenses for speaker recognition systems (SRSs) 
 and thoroughly evaluate their effectiveness using both non-adaptive and adaptive attacks under the same settings. 
